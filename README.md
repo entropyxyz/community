@@ -20,8 +20,8 @@ Have an interesting use-case for Entropy? Create a new post in the **Ideas** cat
 
 If you're running into trouble, follow this process:
 
-1. **Check the documentation**: there's a good chance that you can find the information you're looking for in the documentation.
-2. **Check the [_Support_ category in the _Discussions_ tab**](https://github.com/entropyxyz/community/discussions/categories/support): someone else may have solved the same problem you're having.
+1. **Check the [documentation](docs.entropy.xyz)**: there's a good chance that you can find the information you're looking for in the documentation.
+2. **Check the [_Support_ category in the _Discussions_ tab](https://github.com/entropyxyz/community/discussions/categories/support)**: someone else may have solved the same problem you're having.
 3. **Submit a support ticket**: follow the [steps below to submit a new support ticket](#submit-a-support-ticket) to the Entropy team.
 
 ### Submit a support ticket
