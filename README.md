@@ -6,7 +6,7 @@ This repository houses community discussions, announcements, cool ideas for buil
 
 Want to chat about Entropy and interact with the rest of the community? Head over to the [**General** category under the **Discussions** tab](https://github.com/entropyxyz/community/discussions/categories/general)!
 
-You can also join the [Entropy Discord server](https://discord.gg/H32pB3Ef).
+You can also join the [Entropy Discord server](https://discord.gg/H32pB3Ef). Do not post support queries in Discord. Check out the [Support process](#support) detailed below to get help.
 
 ## Annoucements
 
