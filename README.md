@@ -21,7 +21,7 @@ Have an interesting use-case for Entropy? Create a new post in the **Ideas** cat
 If you're running into trouble, follow this process:
 
 1. **Check the documentation**: there's a good chance that you can find the information you're looking for in the documentation.
-2. **Check the [_Support_ category in the _Discussions_ tab](https://github.com/entropyxyz/community/discussions/categories/support): someone else may have solved the same problem you're having.
+2. **Check the [_Support_ category in the _Discussions_ tab**](https://github.com/entropyxyz/community/discussions/categories/support): someone else may have solved the same problem you're having.
 3. **Submit a support ticket**: follow the [steps below to submit a new support ticket](#submit-a-support-ticket) to the Entropy team.
 
 ### Submit a support ticket
@@ -30,15 +30,15 @@ To create a new support ticket:
 
 1. Go to the **Discussions** tab.
 
-    ![](./images/select-discussion-tab.png)
+   ![](./images/select-discussion-tab.png)
 
 1. Click **New discussion**.
 
-    ![](./images/click-new-discussion.png)
+   ![](./images/click-new-discussion.png)
 
 1. Next to **Support** click **Get started**.
 
-    ![](./images/click-get-started.png)
+   ![](./images/click-get-started.png)
 
 1. Enter a title and description for your issue. The more information you provide in your initial post, the faster we can help you.
 
