@@ -17,7 +17,7 @@ body:
     id: address
     attributes:
       label: Entropy address
-      description: What is your entropy address?  This can be found with the cli and going to Manage Accounts > List Accounts and finding the "address" value in your chosen account.
+      description: The Entropy address that you want to send test funds to.
       validations:
         required: true
 
