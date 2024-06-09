@@ -5,13 +5,9 @@ body:
       value: |
         ## Test Fund Request
         ##
-        Here you may request funds from Entropy for use with the
-        Entropy TestNet. You will need an entropy account and the account's address to
-        make this request. Accounts can be created using our cli. Follow our
-        [Quicktart Guide](https://docs.entropy.xyz/) to get started.
+        Here you may request funds from Entropy for use with the Entropy test network (testnet). You must have an entropy account to make this request. Accounts can be created using the Entropy CLI. [Follow the quickstart guide for more information](https://docs.entropy.xyz/).
 
-        By default, you will be funded 10,000 test funds. If you need more,
-        please specify why in the request.
+        By default, you will be funded 10,000 test funds. If you need more, please specify why your the request.
 
   - type: input
     id: address
