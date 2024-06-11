@@ -1,45 +1,18 @@
-title: "Fund Request"
+name: Request test funds
+description: "Request some funds for testing workflows on the Entropy testnet."
+title: Requesting test funds
+assignees:
+  - johnnymatthews
 body:
   - type: markdown
     attributes:
       value: |
-        ## Test Fund Request
-        
         Here you may request funds from Entropy for use with the Entropy test network (testnet). You must have an entropy account to make this request. Accounts can be created using the Entropy CLI. [Follow the quickstart guide for more information](https://docs.entropy.xyz/).
-
-        By default, you will be funded 10,000 test funds. If you need more, please specify why in your request.
-
   - type: input
-    id: address
+    id: contact
     attributes:
-      label: Entropy address
-      description: The Entropy address that you want to send test funds to.
-      validations:
-        required: true
-
-  - type: select
-    id: require-more-funds
-    attributes:
-      label: Do you require more than 10,000 test funds?
-      options:
-        - label: Yes
-          value: "yes"
-        - label: No
-          value: "no"
-      default: "no"
-
-  - type: textarea
-    id: fund-request-reason
-    attributes:
-      label: If you selected yes above, please tell us why
-      description: Please provide the context and reason for any fund request above the standard 10,000.
-
-  - type: markdown
-    attributes:
-      value: |
-        ## Thanks
-
-        Upon submission, someone from Entropy will send the funds to your
-        address. This usually takes a couple of hours, but may take more.
-
-        Thanks!
+      label: Address
+      description: Your entropy address
+      placeholder: 5E6iCTbq...
+    validations:
+      required: true
