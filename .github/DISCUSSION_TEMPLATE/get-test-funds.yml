@@ -1,8 +1,4 @@
-name: Request test funds
-description: "Request some funds for testing workflows on the Entropy testnet."
 title: Requesting test funds
-assignees:
-  - johnnymatthews
 body:
   - type: markdown
     attributes:
